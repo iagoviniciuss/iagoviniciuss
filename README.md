@@ -1,6 +1,7 @@
 ## oi!!, meu nome é Iago. 🙂
-sou estudante do ensino médio ✨
-gosto de caminhar 🚶
+
+- sou estudante do ensino médio ✨
+- gosto de caminhar 🚶
 
 
 ### Entrar em contato comigo
